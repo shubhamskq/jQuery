@@ -1,0 +1,2 @@
+Event handler is a callback routine that operates asynchronously once an event takes place. It dictates the action that follows the event. 
+The programmer writes a code for this action to take place. An event is an action that takes place when a user interacts with a program.
